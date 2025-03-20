@@ -1,7 +1,7 @@
 
 
 print("----------Olá, Bem vindo a escada de marmore XD---------")
-nome = input("digite seu nome: ")
+nome = input("me chamo zezinha, digite seu nome: ")
 idade = int(input("digite sua idade em números: "))
 
 if idade < 18:
@@ -47,5 +47,7 @@ if idade >= 18:
 
         if suspeita and acertei == True:
             print("eu confirmei minhas suspeitas")
+            print("muito bom o dia de hoje, descobri varias coisas")
+            break
             suspeita = False
             acertei = False
