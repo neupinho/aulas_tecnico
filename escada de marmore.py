@@ -23,7 +23,7 @@ if idade >= 18:
             if suspeita == False:
                 suspeita = True
         if "achei voce safadinha" in comandos:
-            print("meu deus, essa fernanda e fernando")
+            print("meu deus tinha que ser")
             if suspeita == False:
                 suspeita = True
                 acertei = True
@@ -34,7 +34,7 @@ if idade >= 18:
             print("acho que achei algo interessante")
             suspeita = True
         if "lixo" in comandos:
-            print("lixo ta la na sala")
+            print("ta na sala")
             if suspeita == True:
                 suspeita = False
         if "marta" in comandos:
